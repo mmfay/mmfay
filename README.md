@@ -9,5 +9,5 @@
 
 ### 🌐 Visit My Website
 
-Check out my personal site: [**Softwarerror.com**](https://softwarerror.com) — a portfolio of my work, services, and insights on software development.  
+Check out my personal site: [**softwarerror.com**](https://softwarerror.com) — a portfolio of my work, services, and insights on software development.  
 Interested in collaborating or need help with a development project? Head over to the [**Contact**](https://softwarerror.com/contact) page to get in touch.

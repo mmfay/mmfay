@@ -1,24 +1,13 @@
 ## Hi there 👋
 
-- My name is Matthew Fay, I have a B.S. in Software Engineering and a B.S. in Logistics & Supply Chain Management. 
+- My name is Matthew Fay. I have a B.S. in Software Engineering and a B.S. in Logistics & Supply Chain Management.  
+- I enjoy building full-stack web applications, with a current focus on Python, Next.js, React, Node.js, and MySQL.  
+- My goal is to create applications that are intuitive, scalable, and deliver a rich user experience.  
+- Here is a current project I'm working on: [https://nutrigym.softwarerror.com](https://nutrigym.softwarerror.com)
 
-- I enjoy building full-stack web applications, with a current focus on React, Node.js, and MySQL.
+---
 
-- My goal is to create applications that are intuitive, scalable, and deliver a rich user experience.
+### 🌐 Visit My Website
 
-- Here is a current project i'm working on, https://nutrigym.softwarerror.com
-
-<!--
-**mmfay/mmfay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my personal site: [**Softwarerror.com**](https://softwarerror.com) — a portfolio of my work, services, and insights on software development.  
+Interested in collaborating or need help with a development project? Head over to the [**Contact**](https://softwarerror.com/contact) page to get in touch.

@@ -3,7 +3,8 @@
 - My name is Matthew Fay. I have a B.S. in Software Engineering and a B.S. in Logistics & Supply Chain Management.  
 - I enjoy building full-stack web applications, with a current focus on Python, Next.js, React, Node.js, and MySQL.  
 - My goal is to create applications that are intuitive, scalable, and deliver a rich user experience.  
-- Here is a current project I'm working on: [https://nutrigym.softwarerror.com](https://nutrigym.softwarerror.com)
+- Here is a current project I'm working on: [https://nutrigym.softwarerror.com](https://nutrigym.softwarerror.com)  
+  → View the GitHub repo: [github.com/mmfay/nutriGym](https://github.com/mmfay/nutriGym)
 
 ---
 

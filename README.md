@@ -1,10 +1,20 @@
 ## Hi there 👋
 
 - My name is Matthew Fay. I have a B.S. in Software Engineering and a B.S. in Logistics & Supply Chain Management.  
-- I enjoy building full-stack web applications, with a current focus on Python, Next.js, React, Node.js, and MySQL.  
-- My goal is to create applications that are intuitive, scalable, and deliver a rich user experience.  
-- Here is a current project I'm working on: [https://nutrigym.softwarerror.com](https://nutrigym.softwarerror.com)  
-  → View the GitHub repo: [github.com/mmfay/nutriGym](https://github.com/mmfay/nutriGym)
+- I enjoy building full-stack web applications, with a current focus on Python, Next.js, React, Node.js, and relation databases.
+- My goal is to create applications that are intuitive, scalable, and deliver a rich user experience. 
+
+### Current Projects
+
+#### 🏋️ NutriGym
+- A fitness and nutrition tracking app focused on helping users manage their workouts, meals, and progress with ease.
+#### 🔗 [https://nutrigym.softwarerror.com](https://nutrigym.softwarerror.com)  
+#### 📁 [github.com/mmfay/nutriGym](https://github.com/mmfay/nutriGym)
+
+#### 🧠 babyLLM
+
+- A toy large language model built from scratch in Python to explore how LLMs tokenize, embed, and learn simple arithmetic and pattern sequences.
+#### 📁 [github.com/mmfay/babyLLM](https://github.com/mmfay/babyLLM)
 
 ---
 

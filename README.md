@@ -6,10 +6,13 @@
 
 ### Current Projects
 
+#### 🏢 NextERP
+- A modern, cloud-based ERP (Enterprise Resource Planning) system designed to be flexible enough for small startups yet powerful enough for enterprise use.
+#### 📁 [github.com/mmfay/nextERP](https://github.com/mmfay/nextERP)
+
 #### 🏋️ NutriGym
-- A fitness and nutrition tracking app focused on helping users manage their workouts, meals, and progress with ease.
-#### 🔗 [https://nutrigym.softwarerror.com](https://nutrigym.softwarerror.com)  
-#### 📁 [github.com/mmfay/nutriGym](https://github.com/mmfay/nutriGym)
+- A fitness and nutrition tracking app focused on helping users manage their workouts, meals, and progress with ease. 
+#### 📁 [github.com/mmfay/nutrigym](https://github.com/mmfay/nutrigym)
 
 #### 🧠 babyLLM
 

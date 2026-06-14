@@ -6,9 +6,9 @@
 
 ### Current Projects
 
-#### 🏢 NextERP
+#### 🏢 Axiom
 - A modern, cloud-based ERP (Enterprise Resource Planning) system designed to be flexible enough for small startups yet powerful enough for enterprise use.
-#### 📁 [github.com/mmfay/nextERP](https://github.com/mmfay/nextERP)
+#### 📁 [github.com/mmfay/axiom](https://github.com/mmfay/axiom)
 
 #### 🏋️ NutriGym
 - A fitness and nutrition tracking app focused on helping users manage their workouts, meals, and progress with ease. 
